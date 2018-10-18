@@ -1,1 +1,1 @@
-open background-color.html file in your browser
+open backgroundcolor.html file in your browser
